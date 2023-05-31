@@ -1,0 +1,60 @@
+Resultados!
+
+resta.js
+
+let numero1 = 10;
+let numero2 = 2;
+let resultado = numero1 - numero2;
+console.log(resultado); = 8
+
+multiplicacion.js 
+
+let numero1 = 2;
+let numero2 = 17;
+let numero3 = 6;
+
+console.log(numero1 * numero2 * numero3); = 204
+
+convercionGrados.js
+
+let grados_fahrenheit = 50;
+let grados_celsius = (grados_fahrenheit - 32) * (5/9);
+console.log(grados_celsius); = 10
+
+
+let grados_fahrenheit = 75;
+let grados_celsius = (grados_fahrenheit - 32) * (5/9);
+console.log(grados_celsius); = 23.88
+
+
+promedio.js
+
+//let numero1 = 5;
+//let numero2 = 7;
+//let numero3 = 9;
+//let promedio = (numero1 + numero2 + numero3) / 3;
+//console.log(promedio); = 7
+
+//let numero1 = -2;
+//let numero2 = -3;
+//let numero3 = -8;
+//let promedio = (numero1 + numero2 + numero3) / 3;
+//console.log(promedio); = -4.33
+
+let numero1 = -1.2;
+let numero2 = -5.3;
+let numero3 = -3.3;
+let promedio = (numero1 + numero2 + numero3) / 3;
+console.log(promedio); = -3.26
+
+areaRectangulo.js
+
+//let base = 5;
+//let altura = 3;
+//let resultado = base * altura;
+//console.log(resultado); = 15
+
+let base = 12.5;
+let altura = 5.3;
+let resultado = base * altura;
+console.log(resultado); = 66.25
