@@ -1,4 +1,4 @@
-// 4_
+// 4
 
 // A)
 var tamañoDeCita = "Tres tristes tigres comen trigo en un trigal";
