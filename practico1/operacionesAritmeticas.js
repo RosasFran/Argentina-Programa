@@ -20,8 +20,8 @@ var resultadoFinal = var5 * var6;
 console.log(resultadoFinal);
 
 //E)
-let calc = resultadoFinal % 2;
-let esPar = calc === 0;
+var calc = resultadoFinal % 2;
+var esPar = calc === 0;
 console.log(esPar);
 
 //F)
