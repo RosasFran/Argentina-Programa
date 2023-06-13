@@ -1,4 +1,5 @@
 // 4_
+
 // A)
 var tamañoDeCita = "Tres tristes tigres comen trigo en un trigal";
 console.log("El tamaño de cita es:" + " " + tamañoDeCita.length);
