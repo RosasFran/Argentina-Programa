@@ -10,5 +10,5 @@ console.log("El indice de substring es:" + " " + indice);
 
 //C)
 var  citaOriginal = tamañoDeCita;
-let citaRevisada = cita.substring(0, 31);
+vsr citaRevisada = cita.substring(0, 31);
 console.log(citaRevisada);
