@@ -1,7 +1,7 @@
 // 5_
 
 // A)
-var frutas = [];
+let frutas = [];
 console.log(frutas);
 
 // B)
@@ -9,9 +9,9 @@ frutas.push("Manzana", "Banana", "Pera", "Mandarina", "Durazno");
 console.log(frutas);
 
 // C)
-var ultima = frutas.slice(4);
+let ultima = frutas.slice(4);
 console.log("La ultima fruta agregada fue:", ultima);
 
 // D)
-var primera = frutas.slice(0,1);
+let primera = frutas.slice(0,1);
 console.log("La primer fruta agregada fue:", primera);
