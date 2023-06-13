@@ -1,4 +1,4 @@
-var nombre = "Franco"
+var nombre = "Franco";
 var apellido = "Rosas";
 var edad = 29;
 
