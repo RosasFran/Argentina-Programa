@@ -1,22 +1,22 @@
 //3_
 
 // A)
-var var1 = 12;
-var var2 = 10;
-var var3 = 14;
-var var4 = 16;
+let var1 = 12;
+let var2 = 10;
+let var3 = 14;
+let var4 = 16;
 
 // B)
-var var5 = var1 + var2;
+let var5 = var1 + var2;
 console.log(var5); 
 
 
 // c)
-var var6 = var4 - var3;
+let var6 = var4 - var3;
 console.log(var6);
 
 // D)
-var resultadoFinal = var5 * var6;
+let resultadoFinal = var5 * var6;
 console.log(resultadoFinal);
 
 //E)
